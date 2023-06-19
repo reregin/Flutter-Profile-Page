@@ -1,6 +1,8 @@
-# profile_app
+# flutter_profile_app
 
 A new Flutter project.
+This project is the first task given on Mobile Development division member from UNSRAT IT Community.
+It has simple design just to get familar with the Flutter framework and Dart language.
 
 ## Getting Started
 
